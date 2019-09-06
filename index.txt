@@ -1,4 +1,4 @@
-public class Persona2 {
+public class Persona10 {
 
 private int eta;
 
