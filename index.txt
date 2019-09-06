@@ -1,7 +1,7 @@
+
 public class Persona3 {
 
 
-private int eta;
 
 
 }
